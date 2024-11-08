@@ -98,7 +98,7 @@ Both games share similar mechanics but differ in characters and music styles. Ea
 
 For more information, explore our official sites and connect with the Sprunki community:
 
-- - [Sprunki Game Modes](https://sprunkionline.com)
-    - [Daytime Demo](https://sprunkionline.com/sprunked-daytime-demo-mod)
+- [Sprunki Game Modes](https://sprunkionline.com)
+- [Daytime Demo](https://sprunkionline.com/sprunked-daytime-demo-mod)
 
 Join us in the world of Sprunked and start your musical journey today!
